@@ -1,0 +1,23 @@
+{
+  "name": "sx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBX-corp/sx.git"
+  },
+  "author": "JBX corporation",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/JBX-corp/sx/issues"
+  },
+  "homepage": "https://github.com/JBX-corp/sx#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
